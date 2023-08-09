@@ -1,0 +1,31 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hi",
+      "id": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?",
+      "id": 2
+    }
+  ],
+  "settings": [
+    {
+      "id": 1,
+      "name": "prompt",
+      "value": "You are a JavaScript developer"
+    },
+    {
+      "id": 2,
+      "name": "context",
+      "value": "4"
+    },
+    {
+      "id": 3,
+      "name": "temperature",
+      "value": "0.8"
+    }
+  ]
+}
